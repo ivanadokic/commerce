@@ -72,9 +72,6 @@ BigCommerce team has been notified and they plan to add more detailed about this
 Report issue with Data Hooks here: https://github.com/bigcommerce/storefront-data-hooks
 </details>
 
-
-
-
 ## Contribute
 
 Our commitment to Open Source can be found [here](https://vercel.com/oss).
